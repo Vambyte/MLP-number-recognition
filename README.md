@@ -1,2 +1,2 @@
 # MLP-number-recognition
-This is an accompaning repository for a report, hosting files.
+This is an accompanying repository for a report, hosting files.
